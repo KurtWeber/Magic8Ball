@@ -5,7 +5,10 @@
     font-family: 'Angsana New';
     color: white;
     font-size: 20px;
+    text-align: center;
     margin-top: -270px;
-    margin-left: 210px;
+    margin-left: 190px;
+    margin-right: 1050px;
+    border: 3px solid red;
     
 }
